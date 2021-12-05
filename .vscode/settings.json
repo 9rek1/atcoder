@@ -1,0 +1,12 @@
+{
+  "code-runner.executorMap": {
+    "cpp": "cd $dir && g++ -std=c++14 -D_GLIBCXX_DEBUG -Wall $fileName -o $fileNameWithoutExt && $dir/$fileNameWithoutExt"
+  },
+  "code-runner.ignoreSelection": true,
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp"
+  }
+}

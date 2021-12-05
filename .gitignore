@@ -1,0 +1,10 @@
+# 拡張子なしのファイルをignore
+*
+!*/
+!*.*
+
+# ~/.config/git/ignore
+*~
+.DS_Store
+
+contests/
