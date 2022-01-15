@@ -5,8 +5,5 @@
   "code-runner.ignoreSelection": true,
   "code-runner.runInTerminal": true,
   "code-runner.saveFileBeforeRun": true,
-  "files.associations": {
-    "ostream": "cpp",
-    "iostream": "cpp"
-  }
+  "C_Cpp.autoAddFileAssociations": false
 }
